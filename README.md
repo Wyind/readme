@@ -1,1 +1,1 @@
-[![Wyind's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyind)](https://github.com/wyind/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wyind&theme=transparent&hide_border=true)](https://git.io/streak-stats)
