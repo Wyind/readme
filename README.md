@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wyind&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)]
+[![Wyind's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyind)](https://github.com/anuraghazra/github-readme-stats)
